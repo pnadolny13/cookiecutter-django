@@ -1,5 +1,5 @@
 ======================
-Cookiecutter PyPackage
+Cookiecutter Django
 ======================
 
 .. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
