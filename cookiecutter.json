@@ -1,0 +1,5 @@
+{
+    "project_name": "repo-template",
+    "app_name": "app-name",
+    "_copy_without_render": ["*.js"]
+}
