@@ -2,16 +2,9 @@
 Cookiecutter Django
 ======================
 
-.. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
-     :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
-     :alt: Updates
+Cookiecutter_ template for a Django project.
 
-.. image:: https://travis-ci.org/audreyr/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
-
-Cookiecutter_ template for a Python package.
-
-* GitHub repo: https://github.com/audreyr/cookiecutter-pypackage/
+* GitHub repo: https://github.com/pnadolny13/cookiecutter-django/
 * Documentation: https://cookiecutter-pypackage.readthedocs.io/
 * Free software: BSD license
 
@@ -23,7 +16,7 @@ Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
 
-Generate a Python package project::
+Generate a Django project::
 
     cookiecutter https://github.com/pnadolny13/cookiecutter-django.git
 
