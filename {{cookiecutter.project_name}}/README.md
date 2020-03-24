@@ -1,4 +1,4 @@
-### Irma Janes - Docket App
+### {{cookiecutter.project_name}} - {{cookiecutter.app_name}} App
 
 # https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 
